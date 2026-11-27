@@ -1,0 +1,23 @@
+SHADOW SWAP - FINAL PERIOD EDITION - CREDITS
+
+Game concept and original midterm version: the project owner (Constantino).
+Final-period code improvements and documentation: written with AI assistance (Claude, Anthropic) for the project owner.
+
+FONT
+- Montserrat Regular / Bold (static instances generated from the variable font "Montserrat[wght].ttf")
+  Copyright 2011 The Montserrat Project Authors. License: SIL Open Font License 1.1 (assets/fonts/OFL.txt).
+  Source: Google Fonts, https://fonts.google.com/specimen/Montserrat
+
+AUDIO
+- shard_collect.wav, realm_shift.wav, wisp_touch.wav, stage_complete.wav (from the original project) and
+  ui_click.wav, ui_hover.wav, blocked.wav, music_ambient.wav: synthesized from sine waves by the included scripts
+  (tools/generate_audio.py). No third-party recordings. Free to use.
+
+GRAPHICS
+- All in-game visuals are drawn with GDScript draw calls. icon.svg is original. No third-party art.
+
+ENGINE
+- Godot Engine 4.4, MIT License - https://godotengine.org/license/ (not bundled in this project).
+
+TUTORIALS / EXTERNAL CODE
+- None copied. Godot official documentation (docs.godotengine.org) was the reference.

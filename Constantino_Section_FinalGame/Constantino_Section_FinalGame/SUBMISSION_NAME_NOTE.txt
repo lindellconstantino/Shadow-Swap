@@ -1,0 +1,2 @@
+Folder name format: Lastname_Section_FinalGame
+Replace the word "Section" with your real class section (e.g. Constantino_BSCS2A_FinalGame) before submitting.
